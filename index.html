@@ -71,6 +71,10 @@
     });
    }
    getBtcData();
+   tcount=setInterval(function(){
+  tcount++
+  if (tcount==10) {getBtcData(); tcount=0}
+},1000);
     </script>
   </body>
 </html>
