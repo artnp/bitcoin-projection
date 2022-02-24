@@ -1,0 +1,2 @@
+# bitcoin-projection
+ทำนายราคาบิทคอนย์
